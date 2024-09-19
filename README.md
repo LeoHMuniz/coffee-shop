@@ -4,7 +4,9 @@
 
 ### Sobre o projeto
 
-Projeto simples para buscar os pokemóns usando a API "pokéapi" e criar um time com os pokemóns escolhidos, para reforçar os estudos com React, hooks, refs, tailwindcss e fetchAPI.
+Aplicação desenvolvida no desafio de React da Rocketseat. A ideia é gferenciar um carrinho de compras de uma cafeteria.
+
+Utilizando conceitos como: Estados, ContextAPI, LocalStorage, Imutabilidade do estado, Listas chaves no ReactJS, Propriedades e Componentização.
 
 ### Para executar:
 npm install
